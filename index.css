@@ -10,9 +10,24 @@
 }
 
 .container h1{
-    font-size: 50px;
+    font-size: 40px;
+    
+}
+.container p{
+    padding-top: 10px;
+    
 }
 
 .container img{
-    height: 400px;
+    padding-top: 10px;
+    height: 300px;
+}
+
+.container a{
+    padding-top: 10px;
+    color: black;
+}
+
+.container a :hover{
+    color: blue;
 }
